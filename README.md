@@ -1,2 +1,2 @@
 # airbnb
-Ruby on Rails Airbnb Clone 
+Ruby on Rails Airbnb Clone with Javascript,TailwindCSS
